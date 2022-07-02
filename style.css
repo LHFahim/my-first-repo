@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color: blueviolet;
+    background-color: antiquewhite;
+}
+
+h2{
+    color: cornflowerblue;
+    background-color: rgb(200, 176, 176);
+}
+h3{
+    color: blue;
+    background-color: rgba(104, 131, 67, 0.138);
+}
